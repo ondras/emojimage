@@ -8,6 +8,12 @@ A two-line shell script CGI to convert emoji into a SVG image – suitable for f
 
 ```html
 <link rel="icon" href="https://emojimage.toad.cz/😃" />
+
+<link rel="icon" href="https://emojimage.toad.cz/🎵" />
+
+<link rel="icon" href="https://emojimage.toad.cz/🥓" />
+
+...you got the idea
 ```
 
 ## Installation
