@@ -4,14 +4,14 @@ A two-line shell script CGI to convert emoji into a SVG image – suitable for f
 
 ## Usage
 
-*Note: emojimage.toad.cz is my development machine; its stability is not guaranteed.*
+*Note: emojimage.deno.dev is a development endpoint; its stability is not guaranteed.*
 
 ```html
-<link rel="icon" href="https://emojimage.toad.cz/😃" />
+<link rel="icon" href="https://emojimage.deno.dev/😃" />
 
-<link rel="icon" href="https://emojimage.toad.cz/🎵" />
+<link rel="icon" href="https://emojimage.deno.dev/🎵" />
 
-<link rel="icon" href="https://emojimage.toad.cz/🥓" />
+<link rel="icon" href="https://emojimage.deno.dev/🥓" />
 
 ...you got the idea
 ```
